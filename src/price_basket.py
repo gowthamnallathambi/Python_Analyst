@@ -80,7 +80,7 @@ class PriceBasket:
             total -= self.calculate_bread_disconut()
             print(f"Bread {discount['Bread']*100}% off {discount['Bread']*item_price['Bread']*100}p")
             
-        if 'Milk' in self._item_count:
+        else:
             print(f"(No offers available)")
              
         print(f'Total: £{total:.2f}')
