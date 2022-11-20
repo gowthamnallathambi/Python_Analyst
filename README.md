@@ -14,11 +14,12 @@ Products that can be purchased, together with their prices are:
 Run in common line inside directory analyst_code_exercise
 
 
-python3 src/price_basket.py PriceBasket Milk
-python3 src/price_basket.py PriceBasket Apples
-python3 src/price_basket.py PriceBasket Soup Soup Bread 
-python3 src/price_basket.py PriceBasket Soup Milk Bread
-python3 src/price_basket.py PriceBasket Apples Soup Soup
+          python3 src/price_basket.py PriceBasket Milk
+          python3 src/price_basket.py PriceBasket Apples
+          python3 src/price_basket.py PriceBasket Soup Soup Bread 
+          python3 src/price_basket.py PriceBasket Soup Milk Bread
+          python3 src/price_basket.py PriceBasket Apples Soup Soup
 
+Screen Shot of the results:
 
 ![Screen Shot 2022-11-20 at 9 13 33 pm](https://user-images.githubusercontent.com/74011227/202926543-75a784b6-cfb1-472a-9eed-c91cfa1870ab.png)
