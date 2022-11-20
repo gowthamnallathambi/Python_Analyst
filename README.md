@@ -13,6 +13,7 @@ Apples: £1.00 per bag.
 Current special offers are as follows:
         
 Apples have a 10% discount off their normal price this week.
+
 Buy 2 tins of soup and get a loaf of bread for half price.
 
 Run in common line inside directory analyst_code_exercise
