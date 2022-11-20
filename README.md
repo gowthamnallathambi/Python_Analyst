@@ -3,9 +3,13 @@
 Products that can be purchased, together with their prices are:
      
 Soup: 65p per tin.
+
 Bread: 80p per loaf.
+
 Milk: £1.30 per bottle.
+
 Apples: £1.00 per bag.
+
 Current special offers are as follows:
         
 Apples have a 10% discount off their normal price this week.
