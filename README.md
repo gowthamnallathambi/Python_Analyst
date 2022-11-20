@@ -19,9 +19,13 @@ Buy 2 tins of soup and get a loaf of bread for half price.
 Run in common line inside directory analyst_code_exercise
 
      python3 src/price_basket.py PriceBasket Milk
+     
      python3 src/price_basket.py PriceBasket Apples
+     
      python3 src/price_basket.py PriceBasket Soup Soup Bread 
+     
      python3 src/price_basket.py PriceBasket Soup Milk Bread
+     
      python3 src/price_basket.py PriceBasket Apples Soup Soup
 
 Screen Shot of the results:
